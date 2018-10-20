@@ -23,7 +23,7 @@ Conceived during NASA's International Space Apps Challenge of 2018, this app has
 
 ## Wireframes
 ![Alt text](./images/Desktop-landing.png "Desktop Landing Page Wireframe")
-![Alt text](./images/Desktop-login.png "Desktop Login Page Wireframe")
+![Alt text](./images/Desktop-Login.png "Desktop Login Page Wireframe")
 ![Alt text](./images/Mobile-Auth.png "Mobile Authorization Page Wireframe")
 ![Alt text](./images/NewUser-Signup.png "New User Signup Page Wireframe")
 ![Alt text](./images/User-Demographics.png "User Demographics Page Wireframe")
